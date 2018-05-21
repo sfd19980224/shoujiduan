@@ -1,0 +1,80 @@
+@charset "utf-8";
+body{
+	background-color: #85D2C5;
+}
+.logo{
+	text-align: center;
+}
+.logo img{
+	text-align: center;
+	margin-top: 5.25rem;
+	padding-bottom: 2.85rem;
+}
+.center span{
+	width: 11.25rem;
+	display: block;
+	color: #fff;
+	margin-left: 2.5rem;
+	padding-bottom: 0.5rem;
+	margin-bottom: 0.75rem;
+	border-bottom: 0.025rem solid #78BDB2;
+}
+.center span i{
+	font-weight: bold;
+	height: 0.75rem;
+	line-height: 0.75rem;
+	color: #507E76;
+	font-size: 0.6rem;
+	padding-left:0.75rem;
+}
+.login .button{
+	margin-top: 1.5rem;
+	width: 8.4rem;
+	height: 1.85rem;
+	border-radius: 0.1rem;
+	text-align: center;
+	margin-left: 3.8rem;
+	font-size: 0.5rem;
+	color: #fff;
+  background-color: #705D76;
+}
+.login p{
+	margin-top: 0.925rem;
+	font-size: 0.5rem;
+	margin-left: 5.675rem;
+	color: #fff;
+}
+.bottom{
+	margin-top: 5.625rem;
+	height: 5rem;
+	background-color: #80CABD;
+}
+.btn{
+	width: 8.375rem;
+	height: 1.75rem;
+	margin-left: 3.8rem;
+	text-align: center;
+	padding-top: 1rem;
+	margin-bottom: 0.5rem;
+}
+.btn img{
+  float: left;
+  margin-left: 0.75rem;
+  margin-top: 0.425rem;
+}
+.btn p{
+	height: 1.75rem;
+	line-height: 1.75rem;
+	border-radius: 0.1rem;
+	border: 0.05rem solid #fff;
+	color: #fff;
+	text-align: center;
+	font-size: 0.5rem;
+}
+.bottom a{
+	color: #fff;
+	margin-left:  5.325rem;
+	font-size: 0.5rem;
+	text-align: center;
+	text-decoration: underline;
+}
